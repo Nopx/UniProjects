@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration>
+  <Properties>
+    <Property name="ajaxActivated">true</Property>
+    <Property name="applicationServer">Tomcat</Property>
+    <Property name="cloudDeploy">false</Property>
+    <Property name="commonsLibDir">/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.commons.libs_7.2.14.201608091213/lib</Property>
+    <Property name="dbConfigPath">/tmp/WRDBConfig6708309000134686966.xml</Property>
+    <Property name="defaultEncoding"></Property>
+    <Property name="deployCorePluginDir">/media/bernard/Files/DevStff/webratio/WebRatio/configuration/org.eclipse.osgi/bundles/49/1/.cp</Property>
+    <Property name="derbySystemHome">/media/bernard/Files/Projects/Uni/WebAndEngineering/WebRatio/.metadata/.plugins/com.webratio.commons.db/derby</Property>
+    <Property name="enterpriseProjectDir"></Property>
+    <Property name="eventSocketPort">38123</Property>
+    <Property name="excludedProjects" type="list"></Property>
+    <Property name="generationTime">201609262326</Property>
+    <Property name="helpersPluginDir">/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.generator.helpers_7.2.14.201608091213</Property>
+    <Property name="i18nBundleKeysFile" type="file"></Property>
+    <Property name="i18nExtraBundleFile" type="file"></Property>
+    <Property name="localDeploy">true</Property>
+    <Property name="lockDir">/media/bernard/Files/Projects/Uni/WebAndEngineering/WebRatio/Acme/.Temp~</Property>
+    <Property name="normalizeDescriptors">false</Property>
+    <Property name="outputPath">/media/bernard/Files/DevStff/webratio/Tomcat/webapps/Acme</Property>
+    <Property name="phases">All</Property>
+    <Property name="projectDir">/media/bernard/Files/Projects/Uni/WebAndEngineering/WebRatio/Acme</Property>
+    <Property name="projectName">Acme</Property>
+    <Property name="projectPath">/tmp/Project7855464882637777848.wr</Property>
+    <Property name="projectType">WEBPROJECT</Property>
+    <Property name="rootModuleName"></Property>
+    <Property name="uiPluginDir">/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.ide.ui_7.2.14.201608091213</Property>
+    <Property name="webappPluginDir">/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.generator.webapp_7.2.14.201608091213</Property>
+    <Property name="wrBuildId">201608091213</Property>
+    <Property name="wrGenerateOldValidationRules">false</Property>
+    <Property name="wrModelStatistics">pages=15|units=129</Property>
+    <Property name="wrVersion">7.2.14</Property>
+  </Properties>
+  <Plugins>
+    <Plugin id="com.webratio.commons.libs" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.commons.libs_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.commons.transform" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.commons.transform_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.debug" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.debug_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.json" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.json_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.apache.commons.codec" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.apache.commons.codec_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.apache.commons.collections" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.apache.commons.collections_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.apache.commons.httpclient" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.apache.commons.httpclient_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.apache.commons.lang" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.apache.commons.lang_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.apache.commons.logging" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.apache.commons.logging_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.dom4j" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.dom4j_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.lib.javassist" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.lib.javassist_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.rtx.extras" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.rtx.extras_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.rtx" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.rtx_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.struts13" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.struts13_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.units.content" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.content_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.controlflow" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.controlflow_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.module" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.module_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.operation" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.operation_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.session" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.session_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.utility" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.utility_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.validation" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.validation_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.units.ws" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.units.ws_7.2.14.201608091213" type="components"/>
+    <Plugin id="com.webratio.ws" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.ws_7.2.14.201608091213"/>
+    <Plugin id="com.webratio.xsd" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/com.webratio.xsd_7.2.14.201608091213"/>
+  </Plugins>
+  <Styles>
+    <Style name="Excel" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/Excel_7.2.14.201608091213"/>
+    <Style name="Multiflex" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/Multiflex_7.2.14.201608091213"/>
+    <Style name="Reports" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/Reports_7.2.14.201608091213"/>
+    <Style name="WebRatio" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/WebRatio_7.2.14.201608091213"/>
+    <Style name="WRDefault" path="/media/bernard/Files/DevStff/webratio/WebRatio/plugins/WRDefault_7.2.14.201608091213"/>
+  </Styles>
+  <FileEncodings/>
+</Configuration>

@@ -1,0 +1,13 @@
+2016-09-26 21:27:36.784 GMT : Apache Derby Network Server - 10.5.3.0 - (802917) started and ready to accept connections on port 50123
+----------------------------------------------------------------
+2016-09-26 21:27:37.104 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0157-6865-6032-ffffae4c972e
+on database directory /media/bernard/Files/Projects/Uni/WebAndEngineering/WebRatio/.metadata/.plugins/com.webratio.commons.db/derby/AcmeDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2016-09-26 21:28:16.910 GMT:
+Shutting down instance a816c00e-0157-6865-6032-ffffae4c972e
+----------------------------------------------------------------
+2016-09-26 21:28:16.942 GMT Thread[DRDAConnThread_7,5,derby.daemons] (DATABASE = AcmeDB), (DRDAID = {4}), Database 'AcmeDB' shutdown.
+2016-09-26 21:28:16.951 GMT : Apache Derby Network Server - 10.5.3.0 - (802917) shutdown
